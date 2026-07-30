@@ -1,0 +1,3 @@
+1. python3 -m venv venv --> With this command, I'm asking Python to run the venv package, which creates a virtual environment named venv. The first venv in the command is an argument to the -m option which is the name of the Python virtual environment package, and the second is the virtual environment name that I'm going to use for this particular environment
+
+2. source venv/bin/activate --> Used to activate a vertual environment. venv is the vir env folder name. 
